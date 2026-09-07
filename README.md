@@ -1,10 +1,10 @@
 <h1 align="center">Zeerck</h1>
 
-- Сейчас работаю над Telegram-ботом (private repository)
+- Сейчас работаю над [Zeevum-server](https://github.com/Zeevum/Zeevum-server)
 
 - Предыдущий проект — [ZAOGST.WIS](https://github.com/ZV-Inc/ZAOGST.WIS)
 
-- Другие мои проекты вы можете найти здесь [ZV Inc.](https://github.com/ZV-Inc)
+- Другие мои проекты вы можете найти здесь [ZV Inc.](https://github.com/ZV-Inc) или здесь [Zeevum](https://github.com/Zeevum)
 
 - Так же можно посмотреть на [Endgame Mod для Terraria](https://github.com/Zeerck/EndgameMod)
 
